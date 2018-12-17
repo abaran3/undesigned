@@ -45,7 +45,14 @@ const ideas = {
     image: '',
     url: ''
   },
-  FastPaced: { title: 'Fast Paced report', content: '', image: '', url: '' }
+  FastPaced: { title: 'Fast Paced report', content: '', image: '', url: '' },
+  Objectify: {
+    title: 'Objectify others with clothing',
+    content: '',
+    image: '',
+    url: ''
+  },
+  Explain: { title: 'Overexplaining Fables', content: '', image: '', url: '' }
 };
 
 function createIdeas(ideas) {
